@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.name         = "NSOperationTest"
   s.license = { :type => 'MIT', :file => 'LICENSE' }
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "A test about NSOperation."
   s.homepage = 'https://github.com/flairamyz/NSOperationTest'
   s.authors = { 'flairamyz' => '894167502@qq.com' }
